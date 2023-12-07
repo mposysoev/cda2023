@@ -1,0 +1,4 @@
+1. Load data "titration-naoh.csv"
+2. Make a plot of this data
+3. Compute derivative for this function
+4. Make plot with this two lines

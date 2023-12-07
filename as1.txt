@@ -1,0 +1,5 @@
+1. Make linear regression of "calibration-curve.csv" file. Use NumPy 
+this. 
+2. Compute std for difference between experimental data and you model
+prediction. 
+3. Draw two lines of Confidence interval for your linear regression model
